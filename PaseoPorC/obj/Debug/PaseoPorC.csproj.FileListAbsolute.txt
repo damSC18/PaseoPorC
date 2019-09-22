@@ -1,0 +1,7 @@
+I:\Verano2019\.net\AprenderC#\PaseoPorC\PaseoPorC\bin\Debug\PaseoPorC.exe.config
+I:\Verano2019\.net\AprenderC#\PaseoPorC\PaseoPorC\bin\Debug\PaseoPorC.exe
+I:\Verano2019\.net\AprenderC#\PaseoPorC\PaseoPorC\bin\Debug\PaseoPorC.pdb
+I:\Verano2019\.net\AprenderC#\PaseoPorC\PaseoPorC\obj\Debug\PaseoPorC.csprojAssemblyReference.cache
+I:\Verano2019\.net\AprenderC#\PaseoPorC\PaseoPorC\obj\Debug\PaseoPorC.csproj.CoreCompileInputs.cache
+I:\Verano2019\.net\AprenderC#\PaseoPorC\PaseoPorC\obj\Debug\PaseoPorC.exe
+I:\Verano2019\.net\AprenderC#\PaseoPorC\PaseoPorC\obj\Debug\PaseoPorC.pdb
